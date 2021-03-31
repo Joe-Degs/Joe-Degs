@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi, I'm Joe 👋 👩🏾‍💻
+
+My name is Joseph Norkplim Attah. I'm a student pursuing BSc. Human Settlement Planning in Kwame Nkrumah University of Science and Technology, Kumasi, Ghana. I am a curious and passionate learner interested in all things technology. I love to dissect computer systems to figure out how the intricate parts work together and other times I try to break systems and fix them back up. On days I am neither dissecting nor breaking, I write code to automate stuff on my computer, other times I make up problems for myself and try to fix them. I'm actively learning to design and write distributed systems that can communicate efficient over computer networks. I am mostly interested in Systems Administration, Cloud and edge computing, distributed computing, computing networking and blockchain technologies. I love computers❤️💻😊 and you will almost always catch me reading blog posts about these systems....
+
+
+## Find me around the web 🌎: <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
+- Send me a mail - <a href="jpedegs8990@gmail.com">jpedegs8990@gmail.com</a> ✍🏾..📫
+- Let's connect on <a href="https://www.linkedin.com/in/joseph-norkplim-attah/"> LinkedIn</a> ⚡
 
 <!--
 **Joe-Degs/Joe-Degs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
