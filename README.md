@@ -18,7 +18,7 @@ My name is Joseph Norkplim Attah. I'm a student pursuing BSc. Human Settlement P
 
 ## Find me around the web 🌎 <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
 - Send me a mail - <a href="jpedegs8990@gmail.com">jpedegs8990@gmail.com</a> ✍🏾..📫
-- Let's connect on <a href="https://www.linkedin.com/in/joseph-norkplim-attah/"> LinkedIn</a> ⚡
+- Let's connect on <a href="https://www.linkedin.com/in/joseph-attah-norkplim/"> LinkedIn</a> ⚡
 
 <!--
 **Joe-Degs/Joe-Degs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
