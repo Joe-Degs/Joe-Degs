@@ -1,9 +1,17 @@
-## Hi, I'm Joe 👋 👩🏾‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, Joe here! <img src="https://raw.githubusercontent.com/Joe-Degs/Joe-Degs/master/wave.gif" width="30px">
+
+Here's what I do:
 
 
-My name is Joseph Norkplim Attah. I'm a student pursuing BSc. Human Settlement Planning in Kwame Nkrumah University of Science and Technology, Kumasi, Ghana. I am a curious and passionate learner interested in all things technology. I love to dissect computer systems to figure out how the intricate parts work together and other times I try to break systems and fix them back up. On days I am neither dissecting nor breaking, I write code to automate stuff on my computer, other times I make up problems for myself and try to fix them. I'm actively learning to design and write distributed systems that communicate efficiently over computer networks. I am mostly interested in Systems Administration, Cloud and edge computing, distributed computing, computer networking and blockchain technologies. I love computers❤️💻😊 and you will almost always catch me reading blog posts about them....
+- I occassionally write about things I am learning and other life experiences on my [blog](https://joe-degs.github.io)
 
-## 🔧 Technologies & Tools
+- I like computers and love to talk about them. Mostly endulging myself in linux, embedded systems, cloud stuff, networking and systems programming.
+
+- I have read a couple of books and I am looking to make it a habit. Lets talk if you are into books.
+
+- I have a [resume](https://drive.google.com/file/d/1W3_k7KJbRB9g7AjGfF-ylTbpSrEISSUK/view?usp=sharing) contaning highlighted projects.
+
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -15,10 +23,10 @@ My name is Joseph Norkplim Attah. I'm a student pursuing BSc. Human Settlement P
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-
-## Find me around the web 🌎 <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
-- Send me a mail - <a href="jpedegs8990@gmail.com">jpedegs8990@gmail.com</a> ✍🏾..📫
-- Let's connect on <a href="https://www.linkedin.com/in/joseph-attah-norkplim/"> LinkedIn</a> ⚡
+### Find me around the web:
+- Send me a mail - <a href="josephattah005@gmail.com">josephattah005@gmail.com</a>
+- Let's connect on <a href="https://www.linkedin.com/in/joseph-attah-norkplim/"> LinkedIn</a>
+- Or on [Twitter](https://twitter.com/attJOEah)
 
 <!--
 **Joe-Degs/Joe-Degs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
