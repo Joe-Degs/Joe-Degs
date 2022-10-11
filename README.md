@@ -1,4 +1,4 @@
-# Hey, Joe here! <img src="https://raw.githubusercontent.com/Joe-Degs/Joe-Degs/master/wave.gif" width="30px">
+# Hey, Joe here <img src="https://raw.githubusercontent.com/Joe-Degs/Joe-Degs/master/wave.gif" width="30px">
 
 Here's what I do:
 
