@@ -1,15 +1,18 @@
-# Hey, Joe here <img src="https://raw.githubusercontent.com/Joe-Degs/Joe-Degs/master/wave.gif" width="30px">
+# Heyyyo, Joe here <img src="https://raw.githubusercontent.com/Joe-Degs/Joe-Degs/master/wave.gif" width="30px">
 
-Here's what I do:
+Few things about me:
 
+- I occassionally write about things I am learning and resources I'm using on my [blog](https://joe-degs.github.io)
 
-- I occassionally write about things I am learning and other life experiences on my [blog](https://joe-degs.github.io)
+- I like computers and love to talk about them. Mostly endulging myself in linux, embedded/low-level systems, cloud and infrastructure, computer networks, systems programming and distributed systems or anything that seems to catch my fancy.
 
-- I like computers and love to talk about them. Mostly endulging myself in linux, embedded systems, cloud stuff, networking and systems programming.
-
-- I have read a couple of books and I am looking to make it a habit. Lets talk if you are into books.
+- I have read a couple of books and I am looking to make it a habit. I'm [Joe](goodreads.com/joenork) on goodreads.
 
 - I have a [resume](https://drive.google.com/file/d/1W3_k7KJbRB9g7AjGfF-ylTbpSrEISSUK/view?usp=sharing) contaning highlighted projects.
+
+- I am taking a genuine liking to emulator development. Current project is [here](github.com/Joe-Degs/emulator), help, contribute, criticize and nudge me in the right direction.
+
+- I dream of getting a systems engineering internship (very hard to come by one especially in my part of the world). I'll be happy with any help I can get.
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -17,10 +20,12 @@ Here's what I do:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Qemu-informational?style=flat&logo=qemu&logoColor=white&color=2bbc8a)
 
 
 ### Find me around the web:
