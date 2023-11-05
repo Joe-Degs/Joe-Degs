@@ -6,7 +6,7 @@ Few things about me:
 
 - I occassionally write about things I am learning and resources I'm using on my [blog](https://joe-degs.github.io)
 
-- I have read a couple of books (not exactly related to computer technology) and I am looking to make it a habit. I'm [Joe](goodreads.com/joenork) on goodreads.
+- I have read a couple of books (not exactly related to computer technology) and I am looking to make it a habit. I'm [Joe](https://goodreads.com/joenork) on goodreads.
 
 - I am taking a genuine liking to emulator development. Most recent project is [here](github.com/Joe-Degs/emulator), help, contribute, criticize and nudge me in the right direction.
 
