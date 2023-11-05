@@ -2,17 +2,13 @@
 
 Few things about me:
 
+- I like computers and love to talk about them. Mostly endulging myself in understanding Linux (system and kernel), embedded/low-level systems, computer architecture and infrastructure, computer networks, systems programming, distributed systems and any new thing that tickles my fancy.
+
 - I occassionally write about things I am learning and resources I'm using on my [blog](https://joe-degs.github.io)
 
-- I like computers and love to talk about them. Mostly endulging myself in linux, embedded/low-level systems, cloud and infrastructure, computer networks, systems programming and distributed systems or anything that seems to catch my fancy.
+- I have read a couple of books (not exactly related to computer technology) and I am looking to make it a habit. I'm [Joe](goodreads.com/joenork) on goodreads.
 
-- I have read a couple of books and I am looking to make it a habit. I'm [Joe](goodreads.com/joenork) on goodreads.
-
-- I have a [resume](https://drive.google.com/file/d/1W3_k7KJbRB9g7AjGfF-ylTbpSrEISSUK/view?usp=sharing) contaning highlighted projects.
-
-- I am taking a genuine liking to emulator development. Current project is [here](github.com/Joe-Degs/emulator), help, contribute, criticize and nudge me in the right direction.
-
-- I dream of getting a systems engineering internship (very hard to come by one especially in my part of the world). I'll be happy with any help I can get.
+- I am taking a genuine liking to emulator development. Most recent project is [here](github.com/Joe-Degs/emulator), help, contribute, criticize and nudge me in the right direction.
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
